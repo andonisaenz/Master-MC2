@@ -5,7 +5,7 @@ This repository contains all the code implemented in my project.
 1. The file `Main_script.r` contains all the code implemented in the RNAseq analysis pipeline, including:
     * All libraries that were used in the project.
     * Reference genome indexing and reads alignment.
-    * Generation of counts matrix.
+    * Generation of a counts matrix.
     * Data pre-processing and filtering steps.
     * Differential Expression Analysis with DESeq2.
     * Data normalization methods and visualization.
